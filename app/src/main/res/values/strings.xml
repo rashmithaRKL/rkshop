@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Men\'s Store</string>
+    
+    <!-- Bottom Navigation -->
+    <string name="title_home">Home</string>
+    <string name="title_categories">Categories</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+    
+    <!-- Profile Screen -->
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="delivery_address">Delivery Address</string>
+    <string name="recent_orders">Recent Orders</string>
+    <string name="location_permission_rationale">Location permission is required to show your delivery address on the map</string>
+    <string name="location_permission_denied">Location permission denied. Some features may be limited.</string>
+    <string name="delivery_location">Delivery Location</string>
+    
+    <!-- Error Messages -->
+    <string name="error_loading_profile">Failed to load profile</string>
+    <string name="error_updating_location">Failed to update location</string>
+    <string name="error_logout">Failed to logout</string>
+    
+    <!-- Permissions -->
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_location_rationale">Location permission is needed to show your delivery address on the map</string>
+    <string name="permission_denied">Permission Denied</string>
+    
+    <!-- Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_confirm">Confirm</string>
+</resources>
